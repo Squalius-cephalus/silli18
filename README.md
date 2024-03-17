@@ -1,6 +1,7 @@
 # Silli18
 16 button macro pad with rotary encoder support. The project is very incomplete, there is no guarantee that board will work.
 
+![](https://raw.githubusercontent.com/Squalius-cephalus/silli18/main/render.png)
 
 ## Bill of materials
 
