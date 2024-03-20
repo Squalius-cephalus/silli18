@@ -1,7 +1,7 @@
 # Silli18
-16 button macro pad with rotary encoder support. The project is very incomplete, there is no guarantee that board will work.
+RP2040 based macropad, which uses QMK firmware with Vial support.
 
-![](https://raw.githubusercontent.com/Squalius-cephalus/silli18/main/render.png)
+![](https://raw.githubusercontent.com/Squalius-cephalus/silli18/main/silli18.png)
 
 ## Bill of materials
 
@@ -18,7 +18,6 @@
 
 ## TODO
 
- 1. Model bottom and top plate
- 2. Make Vial compatible QMK firmware
+ 1. Make build guide
 
-Project uses footprints from https://github.com/foostan/kbd/tree/main and https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad
+PCB design uses footprints from [ScottoKeebs](https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad "ScottoKeebs") and [kbd library.](https://github.com/foostan/kbd "kbd library.")
