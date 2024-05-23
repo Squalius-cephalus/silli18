@@ -1,5 +1,7 @@
 # Silli18
-RP2040 based macropad, which uses QMK firmware with Vial support.
+RP2040 based macropad, which uses [QMK](https://github.com/qmk/qmk_firmware) firmware with [Vial](https://get.vial.today/) support. 
+
+If you are interested in macropad with hotswap sockets, check [Silakka18](https://github.com/Squalius-cephalus/silakka18).
 
 ![](https://raw.githubusercontent.com/Squalius-cephalus/silli18/main/silli18.png)
 
