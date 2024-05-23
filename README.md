@@ -14,6 +14,7 @@ If you are interested in macropad with hotswap sockets, check [Silakka18](https:
  - 2 x EC11 Rotary encoders
  - 16 x MX style mechanical switches
  - 16 x MX compatible keycaps
+ - 18 x 1N4148 diode
  - 8 x M2 4mm bolt
  - 8 x M2 brass inserts 
  - 8x Rubber feet
